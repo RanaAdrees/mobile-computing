@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <string name="send_message">Send Now</string>
+    <string name="recieve_message">Receive Now</string>
+    <string name="delete_message">delete Now</string>
+    <string name="textview">TextView</string>
+</resources>
